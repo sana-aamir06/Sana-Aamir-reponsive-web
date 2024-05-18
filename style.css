@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to right, #fdfafd, #eadeeb, #f3ddef);
+}
+.cont-btn {
+    padding: 5px;
+    width: 150px;
+    background-color: #f3ddef;
+    border: 3px solid #a14c92;
+    border-radius: 5px;
+}
+
+.start-btn {
+    padding: 5px;
+    width: 150px;
+    background: linear-gradient(to right, #806fbd, #df84e2);
+    border: none;
+    border-radius: 5px;
+}
+
+span {
+    color: rgb(177, 61, 177);
+}
